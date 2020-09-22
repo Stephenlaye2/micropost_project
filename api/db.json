@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "Post One",
+      "body": "This is post one",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is post Two"
+    },
+    {
+      "title": "Post Three",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo at repellendus aliquam maxime eveniet ipsam similique quas, architecto distinctio labore facere harum, repudiandae iste expedita, porro quasi. Numquam, ab animi!",
+      "id": 3
+    },
+    {
+      "title": "Post Four",
+      "body": "This is post four",
+      "id": 4
+    }
+  ]
+}
