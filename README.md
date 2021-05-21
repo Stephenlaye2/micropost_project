@@ -33,8 +33,8 @@ $ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Ayebogbon Stephen Orowole
+[Ayes](http://www.ayesdev.com)
 
 ### License
 
